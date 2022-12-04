@@ -10,3 +10,5 @@ Using Pandas & analysis of the Datasets, we could finally predict the Winners Kn
 <img width="379" alt="Screenshot_20221204_065609" src="https://user-images.githubusercontent.com/85901168/205495331-7baa39ef-5924-4bf5-9c77-516a86505299.png">
 
 This Project is developed by Sanmoy Dam & Arka Prabha Chakraborty.
+
+You can also view the project on Google Colaboratory - https://colab.research.google.com/gist/Sanmoy-2002/54d0988e1474ca6adc07ed6ffbee10cf/fifa-wc-knockouts-prediction.ipynb
