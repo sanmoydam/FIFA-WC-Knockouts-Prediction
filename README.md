@@ -7,8 +7,6 @@ We have taken 2 Datasets -
 - Second Dataset, we used the Fixtures of Round of 16, Quater Final Matches, Semi Final Matches and the Final Match.
 Using Pandas & analysis of the Datasets, we could finally predict the Winners Knockout Games.
 
-This Project is developed by Sanmoy Dam & Arka Prabha Chakraborty.
-
 <img width="379" alt="Screenshot_20221204_065609" src="https://user-images.githubusercontent.com/85901168/205495331-7baa39ef-5924-4bf5-9c77-516a86505299.png">
 
-
+This Project is developed by Sanmoy Dam & Arka Prabha Chakraborty.
